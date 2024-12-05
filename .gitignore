@@ -2,3 +2,5 @@
 energyEV/
 .ipynb_checkpoints/
 lightning_logs/
+autolstm_model/
+autonhits_model/
